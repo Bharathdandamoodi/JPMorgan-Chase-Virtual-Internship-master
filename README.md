@@ -26,4 +26,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New](![image](https://github.com/Bharathdandamoodi/JPMorgan-Chase-Virtual-Internship-master/assets/146349742/b6abcde4-1fa8-49d4-aeaf-62ea373cd92d)
+![image](https://github.com/Bharathdandamoodi/JPMorgan-Chase-Virtual-Internship-master/assets/146349742/b6abcde4-1fa8-49d4-aeaf-62ea373cd92d)
