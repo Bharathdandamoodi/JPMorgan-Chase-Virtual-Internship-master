@@ -26,4 +26,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New](https://user-images.githubusercontent.com/40789486/83999923-5a5ad900-a981-11ea-8b79-1c918da0e279.png)
+![New]("https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_Y2AGbf4igMc64zRqR_1714040205537_completion_certificate.pdf")
